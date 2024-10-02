@@ -1,4 +1,4 @@
-# unicode-number.js [![[ci]](https://github.com/janlelis/unicode-number/workflows/Test/badge.svg)](https://github.com/janlelis/unicode-number/actions?query=workflow%3ATest)
+# unicode-number.js [![[ci]](https://github.com/janlelis/unicode-number.js/workflows/Test/badge.svg)](https://github.com/janlelis/unicode-number.js/actions?query=workflow%3ATest)
 
 Convert a Unicode character into its numeric value.
 
