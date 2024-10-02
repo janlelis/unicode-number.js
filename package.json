@@ -1,0 +1,34 @@
+{
+  "name": "unicode-number",
+  "version": "1.0.0",
+  "description": "[Unicode 16.0.0] Returns the numeric value associated with a Unicode character",
+  "type": "module",
+  "exports": {
+    "default": "./src/index.js"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janlelis/unicode-number.js.git"
+  },
+  "keywords": [
+    "unicode",
+    "number",
+    "numeric",
+    "value"
+  ],
+  "author": {
+    "name": "Jan Lelis",
+    "email": "hi@ruby.consulting"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^2.1.1"
+  }
+}
