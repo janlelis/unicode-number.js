@@ -57,6 +57,12 @@ listUnicodeNumberCharacters()
 
 See a list of all numbers in Unicode: [character.construction/numbers](https://character.construction/numbers)
 
+## Also See
+
+- Block of character: [unicode-blocks.js](https://github.com/janlelis/unicode-blocks.js)
+- Script of character: [unicode-scripts.js](https://github.com/janlelis/unicode-scripts.js)
+- Name of character or Emoji: [unicode-name.js](https://github.com/janlelis/unicode-name.js)
+
 ## MIT License
 
 - Copyright (C) 2024 Jan Lelis <https://janlelis.com>. Released under the MIT license.
