@@ -2,7 +2,7 @@
 
 Convert a Unicode character into its numeric value.
 
-Unicode version: **16.0.0** (September 2024)
+Unicode version: **17.0.0** (September 2025)
 
 ## Install
 
@@ -28,6 +28,7 @@ unicodeNumber("𑿀"); // 0.003125
 unicodeNumber("𖭡"); // 1000000000000
 unicodeNumber("五"); // 5
 unicodeNumber("𜳷"); // 7
+unicodeNumber("𑷡"); // 1
 unicodeNumber("A"); // undefined
 ```
 
@@ -45,6 +46,7 @@ unicodeNumberString("𑿀"); // "1/320"
 unicodeNumberString("𖭡"); // "1000000000000"
 unicodeNumberString("五"); // "5"
 unicodeNumberString("𜳷"); // "7"
+unicodeNumberString("𑷡"); // "1"
 unicodeNumberString("A"); // undefined
 ```
 

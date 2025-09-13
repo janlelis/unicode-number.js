@@ -1,7 +1,7 @@
 {
   "name": "unicode-number",
   "version": "1.0.0",
-  "description": "[Unicode 16.0.0] Returns the numeric value associated with a Unicode character",
+  "description": "[Unicode 17.0.0] Returns the numeric value associated with a Unicode character",
   "type": "module",
   "exports": {
     "default": "./src/index.js"
