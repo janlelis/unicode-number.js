@@ -2,7 +2,7 @@
 
 Convert a Unicode character into its numeric value.
 
-Unicode version: **17.0.0** (September 2025)
+Unicode version: **18.0.0** (September 2025)
 
 ## Install
 
@@ -67,5 +67,5 @@ See a list of all numbers in Unicode: [character.construction/numbers](https://c
 
 ## MIT License
 
-- Copyright (C) 2024 Jan Lelis <https://janlelis.com>. Released under the MIT license.
+- Copyright (C) 2024-2026 Jan Lelis <https://janlelis.com>. Released under the MIT license.
 - Unicode data: https://www.unicode.org/copyright.html#Exhibit1
